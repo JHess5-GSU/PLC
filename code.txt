@@ -1,0 +1,67 @@
+<jason>
+{
+# This is a comment. Let's see what happens. :)
+
+# This code is what I wanted originally to get working, but it doesn't.
+# I mean, there are no lexical or syntax errors, but my program for syntax isn't done
+# Because I am dumb.
+
+yar number_y ;
+ent number_e ;
+shart number_s ;
+lawn number_l ;
+
+
+number_y = 255 ;
+number_e = 65535 ;
+number_s = 4294967295 ;
+number_l = 18446744073709551615 ;
+
+ent adding ;
+ent subbing ;
+ent testing ;
+
+ent totaling ;
+ent multing ;
+ent dividing ;
+ent modding ;
+ 
+testing = 0 ;
+adding = 42 ;
+subbing = 69 ;
+
+totaling = adding - subbing ;
+multing = totaling * adding ;
+dividing = multing / multing ;
+modding = adding % subbing ;
+
+ent loopie ;
+
+
+# four ( loopie = 0 , loopie < 10 , loopie = loopie ++ )
+#    {
+#    print ( loopie ) ;
+#    }
+
+yl ( testing < 5 )
+    {
+        testing = testing ++ ;
+    }
+
+
+# dew 
+#    {
+#        testing = testing -- ;
+#    }
+# yl ( testing > 2 ) ;
+
+ef ( testing < 10 )
+    {
+        testing = testing + 1 ;
+    }
+ls
+    {
+        testing = testing - 10 ;
+    }
+}
+<nosaj>

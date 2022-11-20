@@ -1,0 +1,17 @@
+<jason>
+{
+
+yar smolboy ;
+smolboy = 0 ;
+
+shart alpha_ ;
+alpha_ = 3 ;
+
+ent bravo_ ;   
+bravo_ = 8008 ;
+
+lawn charlie_ ;
+charlie_ = 1234567890 ;
+
+}
+<nosaj>

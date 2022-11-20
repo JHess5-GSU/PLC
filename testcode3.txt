@@ -1,0 +1,17 @@
+<jason>
+{
+
+yar smolboy1 ; # Lexical error. Variable cannot have number.
+smolboy = 0 ;
+
+ent alphaaaa_ ;  # Lexical error. Variable name too large
+alpha_ = 3 ;
+
+shart bravo_ ;; # Lexical error. No known token for two SC's
+bravo_ = 8008 ;
+
+lawn charlie_ ;
+charlie_ === 1234567890 ; # Lexical error. No known token for 3 ='s
+
+}
+<nosaj>

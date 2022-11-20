@@ -1,0 +1,18 @@
+<jason>
+{
+
+yar smolboy ;
+ent alpha_ ;
+shart bravo_ ;
+
+smolboy = 10 ;
+smolboy = smolboy ; # Just for fun
+
+alpha_ = smolboy ;
+
+smolboy = 20 ;
+
+bravo_ = alpha_ ;
+
+}
+<nosaj>

@@ -1,0 +1,17 @@
+<jason>
+{
+
+yar smolboy # Syntax error - Missing semicolon
+smolboy = 0 ;
+
+ent ; # Syntax error - Missing variable name
+alpha_ = 3 ;
+
+bravo_ ;    # Syntax error - Missing variable type
+bravo_ = 8008 ;
+
+lawn charlie_ ;
+charlie_ = 1234567890 ;
+
+}
+# Syntax error - MISSING END SYMBOL :)
